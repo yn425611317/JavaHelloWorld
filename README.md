@@ -1,13 +1,19 @@
 # JavaHelloWorld
 Maven Sample Project for jenkins testing
 
+install java jdk  
+sudo apt-get update  
+sudo apt-get install default-jdk  
+
 install maven in ubuntu  
 sudo apt-get update  
 sudo apt-get install maven  
 
+setting for maven  
 ~/.bashrc  
 export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre  
 
+testing maven  
 /usr/share/maven/bin/mvn -v  
 Apache Maven 3.3.9  
 Maven home: /usr/share/maven  
