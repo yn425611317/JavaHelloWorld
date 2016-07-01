@@ -11,7 +11,7 @@ sudo apt-get install maven
 
 setting for maven  
 ~/.bashrc  
-export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64/jre  
+export JAVA_HOME=/usr/lib/jvm/java-8-openjdk-amd64  
 
 testing maven  
 /usr/share/maven/bin/mvn -v  
